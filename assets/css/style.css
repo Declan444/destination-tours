@@ -3,7 +3,15 @@
     margin: 0;
     box-sizing: border-box;
 }
+/* General styles*/
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /*Generic font color*/
+    color:rgb(71, 67, 67)
 
+}
 
 header {
     background-color: yellow;
@@ -11,6 +19,8 @@ header {
 
 main {
     background-color: beige;
+    /* Make main element take up any surplus space to push footer down*/
+    flex: 1 0 auto;
 
 }
 
