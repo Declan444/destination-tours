@@ -33,9 +33,34 @@ header a {
 h1{
     font-family: 'Raleway, sans-serif';
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     color: rgb(49, 44, 44);
+    text-align: center;
 }
+#links{
+    font-size: 105%;
+    letter-spacing: 1px;
+    list-style-type: none;
+    display: flex;
+    margin-bottom: .25rem;
+    
+}
+#link1{
+    margin: left;
+}
+#link2{
+    margin: 0 auto;
+}
+#link3{
+    margin: right;
+}
+
+.active{
+    border-top: 1px solid rgb(71, 67, 67);
+    border-bottom: 1px solid rgb(71, 67, 67);;
+}
+
+
 
 main {
     background-color: beige;
