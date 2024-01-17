@@ -15,14 +15,26 @@ body{
     font-family: "Lato", sans-serif;
 
 }
-
+/* header*/
 header {
-    background-color: yellow;
-    
+    background-color: #ffff;
+    padding: 0 1rem;
+    position:fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 4px 2px rgb(71, 67, 67);   
+}
+
+header a {
+    text-decoration: none;
+    color: inherit;
 }
 
 h1{
     font-family: 'Raleway, sans-serif';
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: rgb(49, 44, 44);
 }
 
 main {
