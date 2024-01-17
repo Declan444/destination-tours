@@ -35,7 +35,7 @@ h1{
     text-transform: uppercase;
     letter-spacing: 1px;
     color: rgb(49, 44, 44);
-    text-align: center;
+    text-align: left;
 }
 #links{
     font-size: 105%;
@@ -44,15 +44,17 @@ h1{
     display: flex;
     margin-bottom: .25rem;
     
+    
+    
 }
 #link1{
-    margin: left;
+    margin-right: 10px;
 }
 #link2{
-    margin: 0 auto;
+    margin-right: 10px;
 }
 #link3{
-    margin: right;
+   
 }
 
 .active{
@@ -66,9 +68,27 @@ main {
     background-color: beige;
     /* Make main element take up any surplus space to push footer down*/
     flex: 1 0 auto;
+    margin-top: 99px;
 
 }
 
 footer {
     background-color: aqua;
+}
+
+/* Media query: tablets and larger >= 768px*/
+@media screen and (min-width: 768px) {
+div{
+    display: block;
+    position: center;
+    box-shadow: none;
+    width: fit-content;
+    padding-right: 1rem;
+    text-align: center;
+}
+main{
+   /*Push main content down due to header increase*/ 
+   margin-top: 62px;
+}
+
 }
