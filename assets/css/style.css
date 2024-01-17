@@ -72,8 +72,16 @@ main {
 
 }
 
-footer {
-    background-color: aqua;
+/*Footer*/
+#social-links{
+    text-align: center;
+    padding: 20px ;
+    display: flex;
+    justify-content: center;
+   justify-content: space-evenly;
+    
+   
+    list-style-type: none;
 }
 
 /* Media query: tablets and larger >= 768px*/
