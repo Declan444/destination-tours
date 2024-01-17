@@ -12,13 +12,17 @@ body{
     flex-direction: column;
     /*Generic font color*/
     color:rgb(71, 67, 67);
-    font-family: "Raleway", sans-serif;
+    font-family: "Lato", sans-serif;
 
 }
 
 header {
     background-color: yellow;
-    /*font-family: "Lato", sans-serif;*/
+    
+}
+
+h1{
+    font-family: 'Raleway, sans-serif';
 }
 
 main {
