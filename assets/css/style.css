@@ -86,9 +86,24 @@ div{
     padding-right: 1rem;
     text-align: center;
 }
+#business-name{
+    font-size: 280%;
+    line-height: 75px;
+}
 main{
    /*Push main content down due to header increase*/ 
-   margin-top: 62px;
+   margin-top: 108px;
 }
+#links{
+    font-size: 150%;
+}
+}
+
+/* Media query: laptops and desktops >= 992px*/
+@media screen and (min-width: 992px){
+    #links a:hover {
+        border-bottom: 1px solid rgb(71, 67, 67);
+    }
+    
 
 }
