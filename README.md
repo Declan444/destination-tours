@@ -4,6 +4,7 @@ setting the brand name to the left on the home page
 setting the links to the left on the home page as more will be added in later as the site develops and looks better on the larger screens as opposed to being centered.
 Centered the social links on the fotter to be standard acoss all platforms.
 Set a lines above and below the active page
+James Crombie's acclaimed photograph of a murmuration at Lough Ennell (Pic: INPHO/James Crombie)
 
 Use google fonts
 Use webflow for recommendations on fonts to use

@@ -22,8 +22,13 @@ header {
     position:fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 4px 2px rgb(71, 67, 67);   
-}
+    box-shadow: 0 4px 2px rgb(71, 67, 67);  
+    
+            height: 450px;
+            width: 100%;
+            background: url("../images/main-image.jpg") no-repeat center center/cover;
+     }
+
 
 header a {
     text-decoration: none;
@@ -65,12 +70,13 @@ h1{
 
 
 main {
-    background-color: beige;
+    
     /* Make main element take up any surplus space to push footer down*/
     flex: 1 0 auto;
     margin-top: 99px;
-
 }
+
+
 
 /*Footer*/
 #social-links{
