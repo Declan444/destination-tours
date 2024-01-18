@@ -5,6 +5,10 @@ setting the links to the left on the home page as more will be added in later as
 Centered the social links on the fotter to be standard acoss all platforms.
 Set a lines above and below the active page
 James Crombie's acclaimed photograph of a murmuration at Lough Ennell (Pic: INPHO/James Crombie)
+https://validator.w3.org for validation.
+flexbox Froggy for flexbox learning
+fontawesome for fonts
+
 
 Use google fonts
 Use webflow for recommendations on fonts to use

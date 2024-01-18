@@ -1,33 +1,36 @@
 /*Google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-*{
+
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
+
 /* Generic styles*/
-body{
+body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     /*Generic font color*/
-    color:rgb(71, 67, 67);
+    color: rgb(71, 67, 67);
     font-family: "Lato", sans-serif;
 
 }
+
 /* header*/
 header {
     background-color: #ffff;
     padding: 0 1rem;
-    position:fixed;
+    position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 4px 2px rgb(71, 67, 67);  
-    
-            height: 450px;
-            width: 100%;
-            background: url("../images/main-image.webp") no-repeat center center/cover;
-     }
+    box-shadow: 0 4px 2px rgb(71, 67, 67);
+
+    height: 450px;
+    width: 100%;
+    background: url("../images/main-image.webp") no-repeat center center/cover;
+}
 
 
 header a {
@@ -35,121 +38,172 @@ header a {
     color: inherit;
 }
 
-h1{
+h1 {
     font-family: 'Raleway, sans-serif';
     text-transform: uppercase;
     letter-spacing: 1px;
     color: rgb(49, 44, 44);
     text-align: center;
 }
-#links{
+
+#links {
     font-size: 105%;
     letter-spacing: 1px;
     list-style-type: none;
     display: flex;
     margin-bottom: .25rem;
     padding-left: 20px;
-    
-    
-    
-}
-#link1{
-    margin-right: 10px;
-}
-#link2{
-    margin-right: 10px;
-}
-#link3{
-   
+
+
+
 }
 
-.active{
+#link1 {
+    margin-right: 10px;
+}
+
+#link2 {
+    margin-right: 10px;
+}
+
+#link3 {}
+
+.active {
     border-top: 1px solid rgb(71, 67, 67);
-    border-bottom: 1px solid rgb(71, 67, 67);;
+    border-bottom: 1px solid rgb(71, 67, 67);
 }
 
-#main-image-text{
-   background-color: rgb(177, 223, 116, .7); 
-   font-size: 90%;
-   position: absolute;
-   bottom: 10px;
-   width: 90%;
-   min-height: 100px;
-   padding-top: 10px;
-   padding-left: 10px;
-   color: #ffff;
-   text-align: center;
+#main-image-text {
+    background-color: rgb(177, 223, 116, .7);
+    font-size: 90%;
+    position: absolute;
+    bottom: 10px;
+    width: 90%;
+    min-height: 100px;
+    padding-top: 10px;
+    padding-left: 0px;
+    color: #ffff;
+    text-align: center;
+    margin-left: 0px;
 }
-#main-image-text h3{
+
+#main-image-text h3 {
     padding: 10px 10px;
-    
+
 }
 
 main {
-    
+
     /* Make main element take up any surplus space to push footer down*/
     flex: 1 0 auto;
-    margin-top: 99px;
+    margin-top: 450px;
 }
+
+/*Benefits Section*/
+
+#reasons {
+    width: 90%;
+    margin-left: 16px;
+    text-align: center;
+    background-color: rgb(177,223,116,.7) ;
+}
+
+#cover-text{
+    font-size: 150%;
+}
+
+#reasons h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 150%;
+}
+
+#benefits-physical>div,
+#benefits-mental>div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#benefits p {
+    padding: 0 20px;
+}
+
+#benefits hr {
+    border-top: 2px solid rgb(71, 67, 67);
+}
+
+#circle-cover-bg {
+    background: url("../images/goddess-uisneach.webp") no-repeat center center/cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    /*border-radius: 50%;*/
+    max-width: 300px;
+    max-height: 300px;
+}
+
 
 
 
 /*Footer*/
-#social-links{
+#social-links {
     text-align: center;
-    padding: 20px ;
+    padding: 20px;
     display: flex;
     justify-content: center;
-   justify-content: space-evenly;
-    
-   
+    justify-content: space-evenly;
+
+
     list-style-type: none;
 }
 
 #social-links i {
     font-size: 160%;
     padding: 5%;
-    color: rgb(71, 67, 67); 
+    color: rgb(71, 67, 67);
 }
 
 /* Media query: tablets and larger >= 768px*/
 @media screen and (min-width: 768px) {
-div{
-    display: block;
-    position: center;
-    box-shadow: none;
-    width: fit-content;
-    padding-right: 1rem;
-    text-align: center;
-}
-#main-image-text {
-    width: 250px;
-    right: 50px;
-}
+    div {
+        display: block;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+        text-align: center;
+    }
 
-#business-name{
-    font-size: 280%;
-    line-height: 75px;
-}
-main{
-   /*Push main content down due to header increase*/ 
-   margin-top: 108px;
-}
-#links{
-    font-size: 150%;
-}
+    #main-image-text {
+        width: 250px;
+        right: 50px;
+    }
+
+    #business-name {
+        font-size: 280%;
+        line-height: 75px;
+    }
+
+    main {
+        /*Push main content down due to header increase*/
+        margin-top: 450px;
+    }
+
+    #links {
+        font-size: 150%;
+    }
 
 
 }
 
 /* Media query: laptops and desktops >= 992px*/
-@media screen and (min-width: 992px){
+@media screen and (min-width: 992px) {
     #links a:hover {
         border-bottom: 1px solid rgb(71, 67, 67);
     }
-   #main-image-text{
+
+    #main-image-text {
         width: 250px;
         right: 50px;
-   } 
+    }
 
 }
