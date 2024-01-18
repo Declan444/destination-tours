@@ -48,6 +48,7 @@ h1{
     list-style-type: none;
     display: flex;
     margin-bottom: .25rem;
+    padding-left: 20px;
     
     
     
@@ -67,7 +68,22 @@ h1{
     border-bottom: 1px solid rgb(71, 67, 67);;
 }
 
-
+#main-image-text{
+   background-color: rgb(177, 223, 116, .7); 
+   font-size: 90%;
+   position: absolute;
+   bottom: 10px;
+   width: 90%;
+   min-height: 100px;
+   padding-top: 10px;
+   padding-left: 10px;
+   color: #ffff;
+   text-align: center;
+}
+#main-image-text h3{
+    padding: 10px 10px;
+    
+}
 
 main {
     
