@@ -1,5 +1,10 @@
 
 # Love Running
+setting the brand name to the left on the home page
+setting the links to the left on the home page as more will be added in later as the site develops and looks better on the larger screens as opposed to being centered.
+Centered the social links on the fotter to be standard acoss all platforms.
+Set a lines above and below the active page
+
 Use google fonts
 Use webflow for recommendations on fonts to use
 used fontawesome to get images for social links
