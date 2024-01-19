@@ -13,7 +13,7 @@ body {
     display: flex;
     flex-direction: column;
     /*Generic font color*/
-    color: rgb(71, 67, 67);
+    color: rgb(70, 97, 36);
     font-family: "Lato", sans-serif;
 
 }
@@ -42,7 +42,7 @@ h1 {
     font-family: 'Raleway, sans-serif';
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: rgb(49, 44, 44);
+    color: rgb(70, 97, 36);
     text-align: center;
 }
 
@@ -53,6 +53,7 @@ h1 {
     display: flex;
     margin-bottom: .25rem;
     padding-left: 20px;
+    
 
 
 
@@ -60,31 +61,43 @@ h1 {
 
 #link1 {
     margin-right: 10px;
+    
 }
 
 #link2 {
     margin-right: 10px;
-}
+} 
 
-#link3 {}
+#link3 {
+    
+}
 
 .active {
     border-top: 1px solid rgb(71, 67, 67);
     border-bottom: 1px solid rgb(71, 67, 67);
 }
 
+#sub-image{
+    margin-left: 10px;
+}
+
 #main-image-text {
-    background-color: rgb(177, 223, 116, .7);
-    font-size: 90%;
+    background-color: rgba(70,
+        97,
+        36,
+        .7);
+    font-size: 100%;
     position: absolute;
+    
     bottom: 10px;
-    width: 90%;
+    width: 80%;
     min-height: 100px;
     padding-top: 10px;
-    padding-left: 0px;
+    padding-left: 10px;
     color: #ffff;
     text-align: center;
-    margin-left: 0px;
+    
+    
 }
 
 #main-image-text h3 {
@@ -99,48 +112,53 @@ main {
     margin-top: 450px;
 }
 
-/*Benefits Section*/
+/*Sales-area. Using flexbox to make divs*/
 
-#reasons {
-    width: 90%;
-    margin-left: 16px;
-    text-align: center;
-    background-color: rgb(177,223,116,.7) ;
-}
-
-#cover-text{
-    font-size: 150%;
-}
-
-#reasons h2 {
-    margin-bottom: 20px;
-    text-align: center;
-    font-size: 150%;
-}
-
-#benefits-physical>div,
-#benefits-mental>div {
-    line-height: 20px;
-    margin-bottom: 20px;
-}
-
-#benefits p {
-    padding: 0 20px;
-}
-
-#benefits hr {
-    border-top: 2px solid rgb(71, 67, 67);
-}
-
-#circle-cover-bg {
+#sales-area-image {
     background: url("../images/goddess-uisneach.webp") no-repeat center center/cover;
-    height: 90vw;
-    width: 90vw;
-    margin-bottom: 20px;
-    /*border-radius: 50%;*/
-    max-width: 300px;
-    max-height: 300px;
+    height: 200px;
+    width:200px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
 }
+
+
+
+#sales-area{
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 20px auto;
+    
+   
+}
+#inner-sales {
+    background-color: rgb(70, 97, 36, .7);
+    text-align: center;
+    width: 100%;
+
+}
+#inner-sales h3 {
+    color: #ffff;
+    font-size: 130%;
+
+}
+
+#inner-sales p{
+    color:#ffff
+}
+
+#advantages1{
+    padding: 10px 5px 10px 5px;
+    
+}
+
+
+
+
+
+
 
 
 
