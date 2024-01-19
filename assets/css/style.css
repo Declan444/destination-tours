@@ -114,14 +114,7 @@ main {
 
 /*Sales-area. Using flexbox to make divs*/
 
-#sales-area-image {
-    background: url("../images/goddess-uisneach.webp") no-repeat center center/cover;
-    height: 200px;
-    width:200px;
-    border-radius: 50%;
-    align-items: center;
-    justify-content: center;
-}
+
 
 
 
@@ -130,6 +123,17 @@ main {
     flex-direction: column;
     text-align: center;
     margin: 20px auto;
+}
+
+#sales-area-image {
+        display: flex;
+        background: url("../images/goddess-uisneach.webp") no-repeat center center/cover;
+        height: 250px;
+        width: 250px;
+        border-radius: 50%;
+        align-items: center;
+        justify-content: center;
+        margin-left: 15px;
     
    
 }
