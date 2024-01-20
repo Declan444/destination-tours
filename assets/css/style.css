@@ -244,11 +244,12 @@ padding: 10px 5px 10px 5px;
 
     }
     #advantages2{
-        width: 33%;
+        /*width: 33%;*/
     }
 
     #sales-area-image {
-    width: 33%;
+    width: 250px
+    ;
     margin-top: 20px;
     }
 
@@ -262,9 +263,6 @@ padding: 10px 5px 10px 5px;
         width: 250px;
         right: 50px;
     }
-    #sales-area-image{
-        
-        
-    }
+    
 
 }
