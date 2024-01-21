@@ -175,6 +175,35 @@ main {
 padding: 10px 5px 10px 5px;
 }
 
+/*Main area for tours page for phone screens*/
+
+#tour-outer {
+    background-color: aqua;
+    
+}
+
+#tour-outer div{
+    height: 250px;
+    width: auto;
+}
+
+
+
+#tour1-image{
+    background-color: blue;
+    
+}
+
+#text-tour1{
+    background-color: antiquewhite;
+   
+}
+#map-image{
+    background-color: blueviolet;
+    
+    
+}
+
 
 
 
