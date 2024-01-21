@@ -38,7 +38,8 @@ header a {
     color: inherit;
 }
 
-h1 {
+
+#header {
     font-family: 'Raleway, sans-serif';
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -119,10 +120,13 @@ main {
 
 
 #sales-area{
-    display:flex;
+    /*display:flex;
     flex-direction: column;
     text-align: center;
-    margin: 20px auto;
+    margin: 20px auto;*/
+    background-color: rgb(70,
+        97,
+        36);
 }
 #inner-sales-area{
     width: auto;
@@ -201,13 +205,14 @@ padding: 10px 5px 10px 5px;
 
 /* Media query: tablets and larger >= 768px*/
 @media screen and (min-width: 767px) {
-    div {
+    /*div {
         display: block;
         box-shadow: none;
         width: fit-content;
         padding-right: 1rem;
         text-align: center;
-    }
+        
+    }*/
 
     #main-image-text {
         width: 250px;
@@ -232,8 +237,8 @@ padding: 10px 5px 10px 5px;
         
     }
     #inner-sales{
-        display: flex;
-        justify-content: center;
+        display: inline-flex;
+        
 
     }
     #advantages1 {
@@ -244,12 +249,12 @@ padding: 10px 5px 10px 5px;
 
     }
     #advantages2{
-        /*width: 33%;*/
+        width: 250px;
     }
 
     #sales-area-image {
-    width: 250px
-    ;
+    width: 270;
+    
     margin-top: 20px;
     }
 
@@ -259,10 +264,31 @@ padding: 10px 5px 10px 5px;
         border-bottom: 1px solid rgb(71, 67, 67);
     }
 
-    #main-image-text {
-        width: 250px;
-        right: 50px;
+
+    #inner-sales{
+        max-width: auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        
+
     }
-    
+     #advantages1 {
+        width: 33%;
+
+    }
+
+    #sales-area-image {
+        align-items: center;
+        width: 400px;
+        height: 400px;
+        margin-bottom: 20px;
+
+       
+    }
+    #advantages2 {
+        width: 33%;
+    }
+   
 
 }
