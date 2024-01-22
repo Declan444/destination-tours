@@ -129,7 +129,7 @@ main {
         36);
 }
 #inner-sales-area{
-    width: auto;
+    width: 0 auto;
     display: flex;
 }
 
@@ -142,7 +142,7 @@ main {
         /*border-radius: 50%;*/
         /*align-items: center;
         justify-content: center;*/
-        margin-left: 15px;
+        /*margin-left: 15px;*/
     
    
 }
@@ -177,34 +177,12 @@ padding: 10px 5px 10px 5px;
 
 /*Main area for tours page for phone screens*/
 
-#tour-outer {
-    background-color: aqua;
+#tours{
     
-}
-
-#tour-outer div{
-    height: 250px;
-    width: auto;
-}
-
-
-
-#tour1-image{
-    background-color: blue;
-    
-}
-
-#text-tour1{
     background-color: antiquewhite;
-   
+    margin: 0 auto;
+    text-align: center;
 }
-#map-image{
-    background-color: blueviolet;
-    
-    
-}
-
-
 
 
 
@@ -287,6 +265,10 @@ padding: 10px 5px 10px 5px;
     margin-top: 20px;
     }
 
+    
+
+    
+
 /* Media query: laptops and desktops >= 992px*/
 @media screen and (min-width: 992px) {
     #links a:hover {
@@ -322,3 +304,4 @@ padding: 10px 5px 10px 5px;
    
 
 }
+
