@@ -8,6 +8,9 @@ James Crombie's acclaimed photograph of a murmuration at Lough Ennell (Pic: INPH
 https://validator.w3.org for validation.
 flexbox Froggy for flexbox learning
 fontawesome for fonts
+<https://belvedere-house.ie/the-belvedere-story/>
+birrcastle.com
+loughboora.com
 
 
 Use google fonts

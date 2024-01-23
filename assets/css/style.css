@@ -180,13 +180,17 @@ padding: 10px 5px 10px 5px;
 #overall-tour h2, p{
     color: #fff;
     text-align: center;
+    padding-bottom: 10px;
+    
 
+}
+#overall-tour p{
+    padding-bottom:20px;
+    padding-top:20px;
 }
 
 #overall-tour div{
-    background-color: rgb(70,
-            97,
-            36);
+    background-color: rgb(70,97,36, .7);
 }
 
 
@@ -197,8 +201,11 @@ padding: 10px 5px 10px 5px;
     background: url('../images/belvadere-house.jfif') no-repeat center center/cover;
     max-width: 300px;
     max-height: 300px;
-    height: 300px;
-    width: 300px;
+    height: 250px;
+    width: 280px;
+    border-radius: 20%;
+    border: 5px solid rgb(71, 67, 67)
+    
 
 }
 
@@ -206,27 +213,35 @@ padding: 10px 5px 10px 5px;
 
 
 #tour2-image1 {
-    background: url('../images/birr-castle1.jpg') no-repeat center center/cover;
+    background: url('../images/birr-castle.jpg') no-repeat center center/cover;
     max-width: 300px;
     max-height: 300px;
-    height: 300px;
-    width: 300px;
-
+    height: 250px;
+    width: 280px;
+    border-radius: 20%;
+    border: 5px solid rgb(71, 67, 67);
+    
 }
 #tour3-image1 {
     background: url('../images/goddess-uisneach.webp') no-repeat center center/cover;
     max-width: 300px;
     max-height: 300px;
-    height: 300px;
-    width: 300px;
+    height: 250px;
+    width: 280px;
+    border-radius: 20%;
+    border: 5px solid rgb(71, 67, 67);
+    
 
 }
 #tour4-image1 {
     background: url('../images/lough-boora.jpg') no-repeat center center/cover;
     max-width: 300px;
     max-height: 300px;
-    height: 300px;
-    width: 300px;
+    height: 250px;
+    width: 280px;
+    border-radius: 20%;
+    border: 5px solid rgb(71, 67, 67)
+    
 
 }
 
@@ -255,6 +270,10 @@ padding: 10px 5px 10px 5px;
     font-size: 160%;
     padding: 5%;
     color: rgb(71, 67, 67);
+}
+
+#overall-control p{
+    border-bottom: 10px;
 }
 
 
@@ -303,7 +322,7 @@ padding: 10px 5px 10px 5px;
     
        
 
-    }
+   
     #advantages2{
         width: 250px;
     }
@@ -314,7 +333,102 @@ padding: 10px 5px 10px 5px;
     margin-top: 20px;
     }
 
+    /* Tour page for screens greater than 600px*/
+
+    #tour1-images{
+        display: flex;
+       justify-content: space-evenly;
+
+    }
+
+    #tour1-image2{
+        background: url('../images/get-in-touch-tower-belvedere.jpg') no-repeat center center/cover;
+            max-width: 300px;
+            max-height: 300px;
+            height: 250px;
+            width: 280px;
+            border-radius: 20%;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            border: 5px solid rgb(71, 67, 67)
+
+    }
+
+    #tour1-image1{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+        #tour2-images {
+            display: flex;
+            justify-content: space-evenly;
     
+        }
+
+        #tour2-image1{
+            margin-top: 10px;
+                margin-bottom: 10px;
+        }
+
+    #tour2-image2{
+    background: url('../images/birrcastle-terraces.jpg') no-repeat center center/cover;
+        max-width: 300px;
+        max-height: 300px;
+        height: 250px;
+        width: 280px;
+        border-radius: 20%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        border: 5px solid rgb(71, 67, 67)
+    }
+
+        #tour3-images {
+            display: flex;
+            justify-content: space-evenly;
+    
+        }
+    
+        #tour3-image1 {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    
+        #tour3-image2 {
+            background: url('../images/Home-Bealtaine-Fire.jpg') no-repeat center center/cover;
+            max-width: 300px;
+            max-height: 300px;
+            height: 250px;
+            width: 280px;
+            border-radius: 20%;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            border: 5px solid rgb(71, 67, 67);
+        }
+
+                #tour4-images {
+                    display: flex;
+                    justify-content: space-evenly;
+        
+                }
+        
+                #tour4-image1 {
+                    margin-top: 10px;
+                    margin-bottom: 10px;
+                }
+        
+                #tour4-image2 {
+                    background: url('../images/sculpture_60degrees-loughboora.jpg') no-repeat center center/cover;
+                    max-width: 300px;
+                    max-height: 300px;
+                    height: 250px;
+                    width: 280px;
+                    border-radius: 20%;
+                    margin-top: 10px;
+                    margin-bottom: 10px;
+                    border: 5px solid rgb(71, 67, 67);
+                }
+
+}
 
     
 
@@ -350,6 +464,75 @@ padding: 10px 5px 10px 5px;
     #advantages2 {
         width: 33%;
     }
+
+        #tour-images {
+            display: flex;
+            justify-content: space-evenly;
+    
+        }
+    
+        #tour3-image1 {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    
+        #tour1-image3 {
+            background: url('../images/become-a-member-bellgate-768x818-belvedere.jpg') no-repeat center center/cover;
+            max-width: 300px;
+            max-height: 300px;
+            height: 250px;
+            width: 280px;
+            border-radius: 20%;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            border: 5px solid rgb(71, 67, 67)
+        }
+
+                 #tour2-images {
+                     display: flex;
+                     justify-content: space-evenly;
+        
+                 }
+        
+                 #tour2-image3 {
+                     margin-top: 10px;
+                     margin-bottom: 10px;
+                 }
+        
+                 #tour2-image3 {
+                     background: url('../images/birr-telescope.jpg') no-repeat center center/cover;
+                     max-width: 300px;
+                     max-height: 300px;
+                     height: 250px;
+                     width: 280px;
+                     border-radius: 20%;
+                     margin-top: 10px;
+                     margin-bottom: 10px;
+                     border: 5px solid rgb(71, 67, 67)
+                 }
+
+                #tour4-images {
+                    display: flex;
+                    justify-content: space-evenly;
+        
+                }
+        
+                #tour4-image3 {
+                    margin-top: 10px;
+                    margin-bottom: 10px;
+                }
+        
+                #tour4-image3 {
+                    background: url('../images/nature_dragonfly.jpg') no-repeat center center/cover;
+                    max-width: 300px;
+                    max-height: 300px;
+                    height: 250px;
+                    width: 280px;
+                    border-radius: 20%;
+                    margin-top: 10px;
+                    margin-bottom: 10px;
+                    border: 5px solid rgb(71, 67, 67)
+                }
    
 
 }
