@@ -113,7 +113,7 @@ main {
     margin-top: 450px;
 }
 
-/*Sales-area. Using flexbox to make divs*/
+/*Sales-area. Using flexbox to make divs for index page*/
 
 
 
@@ -177,12 +177,59 @@ padding: 10px 5px 10px 5px;
 
 /*Main area for tours page for phone screens*/
 
-#tours{
-    
-    background-color: antiquewhite;
-    margin: 0 auto;
+#overall-tour h2, p{
+    color: #fff;
     text-align: center;
+
 }
+
+#overall-tour div{
+    background-color: rgb(70,
+            97,
+            36);
+}
+
+
+    
+    
+
+#tour1-image1{
+    background: url('../images/belvadere-house.jfif') no-repeat center center/cover;
+    max-width: 300px;
+    max-height: 300px;
+    height: 300px;
+    width: 300px;
+
+}
+
+
+
+
+#tour2-image1 {
+    background: url('../images/birr-castle1.jpg') no-repeat center center/cover;
+    max-width: 300px;
+    max-height: 300px;
+    height: 300px;
+    width: 300px;
+
+}
+#tour3-image1 {
+    background: url('../images/goddess-uisneach.webp') no-repeat center center/cover;
+    max-width: 300px;
+    max-height: 300px;
+    height: 300px;
+    width: 300px;
+
+}
+#tour4-image1 {
+    background: url('../images/lough-boora.jpg') no-repeat center center/cover;
+    max-width: 300px;
+    max-height: 300px;
+    height: 300px;
+    width: 300px;
+
+}
+
 
 
 
@@ -209,6 +256,8 @@ padding: 10px 5px 10px 5px;
     padding: 5%;
     color: rgb(71, 67, 67);
 }
+
+
 
 /* Media query: tablets and larger >= 768px*/
 @media screen and (min-width: 767px) {
