@@ -27,7 +27,7 @@ header {
     width: 100%;
     box-shadow: 0 4px 2px rgb(71, 67, 67);
 
-    height: 450px;
+    height: 300px;
     width: 100%;
     background: url("../images/main-image.webp") no-repeat center center/cover;
 }
@@ -80,6 +80,7 @@ header a {
 
 #sub-image{
     margin-left: 10px;
+    border-radius: 20%;
 }
 
 #main-image-text {
@@ -97,6 +98,7 @@ header a {
     padding-left: 10px;
     color: #ffff;
     text-align: center;
+    border-radius: 8%;
     
     
 }
@@ -110,12 +112,17 @@ main {
 
     /* Make main element take up any surplus space to push footer down*/
     flex: 1 0 auto;
-    margin-top: 450px;
+    margin-top: 300px;
+    
+    
 }
 
 /*Sales-area. Using flexbox to make divs for index page*/
 
-
+.body-page-image {
+    width: 150px;
+    height: 150px;
+}
 
 
 
@@ -131,6 +138,7 @@ main {
 #inner-sales-area{
     width: 0 auto;
     display: flex;
+    
 }
 
 #sales-area-image {
@@ -139,10 +147,11 @@ main {
         background: url("../images/heart-of-ireland.webp") no-repeat center center/cover;
         height: 250px;
         width: 250px;
-        /*border-radius: 50%;*/
+        border-radius: 20%;
         /*align-items: center;
         justify-content: center;*/
         /*margin-left: 15px;*/
+        margin:0 auto;
     
    
 }
@@ -207,6 +216,11 @@ padding: 10px 5px 10px 5px;
     border: 5px solid rgb(71, 67, 67)
     
 
+}
+
+.tour-text{
+    padding-right: 40px;
+    padding-left: 40px;
 }
 
 
@@ -298,10 +312,19 @@ padding: 10px 5px 10px 5px;
         font-size: 280%;
         line-height: 75px;
     }
+        main {
+    
+            /* Make main element take up any surplus space to push footer down*/
+            flex: 1 0 auto;
+            margin-top: 300px;
+    
+        }
 
     main {
         /*Push main content down due to header increase*/
-        margin-top: 450px;
+        
+        flex: 1 0 auto;
+            margin-top: 300px;
     }
 
     #links {
@@ -312,25 +335,66 @@ padding: 10px 5px 10px 5px;
         
     }
     #inner-sales{
-        display: inline-flex;
+        display: flex;
+        justify-content: space-between;
         
 
     }
-    #advantages1 {
-        width: 33%;
+    .advantages1{
+        width: 300px;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+    .advantages2 {
+        width: 300px;
+        margin: 0 auto;
     }
     
-       
+     #inner-sales-section1{
+        display:flex;
+        flex-direction: column;
+     } 
 
-   
+     .body-page-image{
+        margin: 0 auto;
+        margin-bottom: 80px;
+       
+     }
+
+     #body-image1{
+        background: url('../images/lough-boora.jpg');
+        height: 200px;
+        width:200px;
+        border-radius: 50%;
+     }
+     #body-image2{
+        background: url('../images/nature_dragonfly.jpg');
+        height:200px;
+        width: 200px;
+        border-radius: 50%;
+
+     }
+
+     
+          #inner-sales-section2 {
+              display: flex;
+              flex-direction: column;
+              
+          }
+
+     
+
+   /*
     #advantages2{
         width: 250px;
     }
-
+    */
     #sales-area-image {
-    width: 270;
+    width: 250px;
+    height: 250px;
     
     margin-top: 20px;
+    
     }
 
     /* Tour page for screens greater than 600px*/
@@ -437,7 +501,10 @@ padding: 10px 5px 10px 5px;
     #links a:hover {
         border-bottom: 1px solid rgb(71, 67, 67);
     }
-
+    main{
+        flex: 1 0 auto;
+        margin-top: 300px;
+    }
 
     #inner-sales{
         max-width: auto;
