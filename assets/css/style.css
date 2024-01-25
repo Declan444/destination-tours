@@ -30,6 +30,7 @@ header {
     height: 300px;
     width: 100%;
     background: url("../images/main-image.webp") no-repeat center center/cover;
+    max-width: 1200px;
 }
 
 
@@ -358,18 +359,26 @@ main {
     #inner-sales{
         display: flex;
         justify-content: space-between;
+        height: 570px;
+        align-items: center;
         
 
     }
     
-    
+    #sales-image-container{
+        width: 300px;
+        height: 300px;
+        align-self: center;
+    }
 
     #sales-area-image {
-    width: 250px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
     
-    margin-top: 20px;
-    
+    }
+
+    #inner-sales-section1{
+        align-items: center;
     }
 
     /* Tour page for screens greater than 600px*/
@@ -486,6 +495,8 @@ main {
         display: flex;
         align-items: center;
         justify-content: space-between;
+        max-width: 1200px;
+        height: 570px;
         
 
     }
@@ -496,9 +507,9 @@ main {
 
     #sales-area-image {
         align-items: center;
-        width: 400px;
-        height: 400px;
-        margin-bottom: 20px;
+        width: 300px;
+        height: 300px;
+        
         border-radius: 10%;
 
        
