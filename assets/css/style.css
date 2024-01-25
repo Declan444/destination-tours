@@ -80,7 +80,10 @@ header a {
 
 #sub-image{
     margin-left: 10px;
-    border-radius: 20%;
+    
+    display: flex;
+    justify-content: flex-end;
+
 }
 
 #main-image-text {
@@ -92,13 +95,13 @@ header a {
     position: absolute;
     
     bottom: 10px;
-    width: 80%;
+    width: 250px;
     min-height: 100px;
     padding-top: 10px;
     padding-left: 10px;
     color: #ffff;
     text-align: center;
-    border-radius: 8%;
+    
     
     
 }
@@ -173,16 +176,34 @@ main {
 #inner-sales p{
     color:#ffff
 }
+.advantages1{
+    padding: 10px 10px 10px 10px;
+}
+.advantages2{
+    padding: 10px 10px 10px 10px;
+}
 
-#advantages1{
-    padding: 10px 5px 10px 5px;
-    
+.body-page-image{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
     
 }
 
-#advantages2{
-padding: 10px 5px 10px 5px;
+#body-image1{
+    background: url('../images/nature_dragonfly.jpg');
+    height: 200px;
+    width:200px;
+    border-radius: 50%;
 }
+
+#body-image2 {
+    background: url('../images/goddess-uisneach-small.webp');
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
 
 /*Main area for tours page for phone screens*/
 
@@ -340,55 +361,9 @@ padding: 10px 5px 10px 5px;
         
 
     }
-    .advantages1{
-        width: 300px;
-        margin: 0 auto;
-        margin-top: 30px;
-    }
-    .advantages2 {
-        width: 300px;
-        margin: 0 auto;
-    }
     
-     #inner-sales-section1{
-        display:flex;
-        flex-direction: column;
-     } 
+    
 
-     .body-page-image{
-        margin: 0 auto;
-        margin-bottom: 80px;
-       
-     }
-
-     #body-image1{
-        background: url('../images/lough-boora.jpg');
-        height: 200px;
-        width:200px;
-        border-radius: 50%;
-     }
-     #body-image2{
-        background: url('../images/nature_dragonfly.jpg');
-        height:200px;
-        width: 200px;
-        border-radius: 50%;
-
-     }
-
-     
-          #inner-sales-section2 {
-              display: flex;
-              flex-direction: column;
-              
-          }
-
-     
-
-   /*
-    #advantages2{
-        width: 250px;
-    }
-    */
     #sales-area-image {
     width: 250px;
     height: 250px;
