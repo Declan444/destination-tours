@@ -300,6 +300,7 @@ main {
 
 
     list-style-type: none;
+    max-width: 1200px;
 }
 
 #social-links i {
@@ -586,6 +587,8 @@ main {
                     margin-bottom: 10px;
                     border: 5px solid rgb(71, 67, 67)
                 }
+
+               
    
 
 }
