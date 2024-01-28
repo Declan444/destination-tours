@@ -15,6 +15,7 @@ body {
     /*Generic font color*/
     color: rgb(70, 97, 36);
     font-family: "Lato", sans-serif;
+    max-width: 1200px;
 
 }
 
@@ -60,6 +61,9 @@ header a {
 
 
 }
+ a:hover{
+    border-bottom: 1px solid rgb(71, 67, 67);
+}
 
 #link1 {
     margin-right: 10px;
@@ -70,15 +74,30 @@ header a {
     margin-right: 10px;
 } 
 
+
 #link3 {
     
 }
+
+
+/* Links section with drop down menu*/
+.sub-menu{
+    display:none;
+}
+#link2 a:hover .sub-menu{
+    display: flex;
+}
+
+
+
 
 .active {
     border-top: 1px solid rgb(71, 67, 67);
     border-bottom: 1px solid rgb(71, 67, 67);
 }
 
+
+/* sub image in the header code here*/
 #sub-image{
     margin-left: 10px;
     
@@ -207,6 +226,10 @@ main {
 
 
 /*Main area for tours page for phone screens*/
+#overall-tour{
+
+}
+
 
 #overall-tour h2, p{
     color: #fff;
@@ -224,7 +247,11 @@ main {
     background-color: rgb(70,97,36, .7);
 }
 
-
+.tour-images{
+display: flex;
+justify-content: center;
+padding-top: 10px;
+}
     
     
 
@@ -281,13 +308,29 @@ main {
 
 }
 
+/* Main area for the contact us page*/
 
 
 
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+}
 
+textarea {
+    height: 100px;
+}
 
-
-
+button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
 
 
 /*Footer*/
