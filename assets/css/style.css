@@ -144,6 +144,9 @@ main {
     /*margin-left: 15px;*/
     margin: 0 auto;
 }
+#inner-sales-section2{
+    width: auto;
+}
 
 #inner-sales {
     background-color: rgb(70, 97, 36, .7);
@@ -389,7 +392,7 @@ form {
     #inner-sales {
         display: flex;
         justify-content: space-between;
-        height: 570px;
+        height: auto;
         align-items: center;
     }
 
@@ -406,6 +409,9 @@ form {
 
     #inner-sales-section1 {
         align-items: center;
+    }
+    #advantages1{
+        padding-top: 25px;
     }
 
     /* Tour page for screens greater than 600px*/
