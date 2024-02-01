@@ -50,6 +50,7 @@ This site contains three main sections the landing page, the tour page and the c
 
 ![image](https://github.com/Declan444/destination-tours/assets/119152450/2d071f71-55be-47a8-9b32-ccbf987d93af)
 
+![destination-tours-wireframe](https://github.com/Declan444/destination-tours/assets/119152450/1d33570f-ca66-435c-902f-f704e14d4c56)
 
   # Tours Page
 
