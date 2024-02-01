@@ -28,7 +28,7 @@ header {
     box-shadow: 0 4px 2px rgb(71, 67, 67);
     height: 300px;
     width: 100%;
-    background: url("../images/main-image.webp") no-repeat center center/cover;
+    background: url("../images/mainImage.webp") no-repeat center center/cover;
     max-width: 1200px;
 }
 
@@ -135,7 +135,7 @@ main {
 #sales-area-image {
     /*width: auto;*/
     display: flex;
-    background: url("../images/heart-of-ireland.webp") no-repeat center center/cover;
+    background: url("../images/heartOfIreland.webp") no-repeat center center/cover;
     height: 250px;
     width: 250px;
     border-radius: 20%;
@@ -180,14 +180,14 @@ main {
 }
 
 #body-image1 {
-    background: url('../images/nature_dragonfly.jpg');
+    background: url('../images/natureDragonfly.jpg');
     height: 200px;
     width: 200px;
     border-radius: 50%;
 }
 
 #body-image2 {
-    background: url('../images/goddess-uisneach-small.webp');
+    background: url('../images/goddessUisneachSmall.webp');
     height: 200px;
     width: 200px;
     border-radius: 50%;
@@ -219,7 +219,7 @@ p {
 }
 
 #tour1-image1 {
-    background: url('../images/belvadere-house.jfif') no-repeat center center/cover;
+    background: url('../images/belvadereHouse.jfif') no-repeat center center/cover;
     max-width: 300px;
     max-height: 300px;
     height: 250px;
@@ -234,7 +234,7 @@ p {
 }
 
 #tour2-image1 {
-    background: url('../images/birr-castle.jpg') no-repeat center center/cover;
+    background: url('../images/birrCastle.jpg') no-repeat center center/cover;
     max-width: 300px;
     max-height: 300px;
     height: 250px;
@@ -244,7 +244,7 @@ p {
 }
 
 #tour3-image1 {
-    background: url('../images/goddess-uisneach.webp') no-repeat center center/cover;
+    background: url('../images/goddessUisneach.webp') no-repeat center center/cover;
     max-width: 300px;
     max-height: 300px;
     height: 250px;
@@ -254,7 +254,7 @@ p {
 }
 
 #tour4-image1 {
-    background: url('../images/lough-boora.jpg') no-repeat center center/cover;
+    background: url('../images/loughBoora.jpg') no-repeat center center/cover;
     max-width: 300px;
     max-height: 300px;
     height: 250px;
@@ -278,7 +278,7 @@ p {
     justify-content: center;
     width: 300px;
     height: 340px;
-    background: url('../images/pub-scene.jpg') no-repeat center center/cover;
+    background: url('../images/pubScene.jpg') no-repeat center center/cover;
     padding-right: 17px;
     margin-top: 20px;
 }
@@ -318,10 +318,10 @@ form {
     background-color: #4caf50;
     margin: 15px;
     border: 5px solid rgb(71, 67, 67);
-    background: url('../images/sculpture_60degrees-loughboora.jpg');
+    background: url('../images/sculpture60degreesLoughboora.jpg');
 }
 #bottom-image-contact-us{
-    background: url('../images/lough-ennell-landscape.jpg')no-repeat center center/cover;
+    background: url('../images/loughEnnellLandscape.jpg')no-repeat center center/cover;
     height: 200px;
     width: auto;
     border: 5px solid rgb(71, 67, 67);
@@ -421,7 +421,7 @@ form {
     }
 
     #tour1-image2 {
-        background: url('../images/get-in-touch-tower-belvedere.jpg') no-repeat center center/cover;
+        background: url('../images/belvedere2.jpg') no-repeat center center/cover;
         max-width: 300px;
         max-height: 300px;
         height: 250px;
@@ -448,7 +448,7 @@ form {
     }
 
     #tour2-image2 {
-        background: url('../images/birrcastle-terraces.jpg') no-repeat center center/cover;
+        background: url('../images/birrcastleTerraces.jpg') no-repeat center center/cover;
         max-width: 300px;
         max-height: 300px;
         height: 250px;
@@ -470,7 +470,7 @@ form {
     }
 
     #tour3-image2 {
-        background: url('../images/Home-Bealtaine-Fire.jpg') no-repeat center center/cover;
+        background: url('../images/homeBealtaineFire.jpg') no-repeat center center/cover;
         max-width: 300px;
         max-height: 300px;
         height: 250px;
@@ -493,7 +493,7 @@ form {
     }
 
     #tour4-image2 {
-        background: url('../images/sculpture_60degrees-loughboora.jpg') no-repeat center center/cover;
+        background: url('../images/sculpture60degreesLoughboora.jpg') no-repeat center center/cover;
         max-width: 300px;
         max-height: 300px;
         height: 250px;
@@ -608,7 +608,7 @@ form {
     }
 
     #tour1-image3 {
-        background: url('../images/become-a-member-bellgate-768x818-belvedere.jpg') no-repeat center center/cover;
+        background: url('../images/belvedere1.jpg') no-repeat center center/cover;
         max-width: 300px;
         max-height: 300px;
         height: 250px;
@@ -630,7 +630,7 @@ form {
     }
 
     #tour2-image3 {
-        background: url('../images/birr-telescope.jpg') no-repeat center center/cover;
+        background: url('../images/birrTelescope.jpg') no-repeat center center/cover;
         max-width: 300px;
         max-height: 300px;
         height: 250px;
@@ -652,7 +652,7 @@ form {
     }
 
     #tour4-image3 {
-        background: url('../images/nature_dragonfly.jpg') no-repeat center center/cover;
+        background: url('../images/natureDragonfly.jpg') no-repeat center center/cover;
         max-width: 300px;
         max-height: 300px;
         height: 250px;
