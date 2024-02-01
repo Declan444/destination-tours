@@ -54,7 +54,9 @@ This site contains three main sections the landing page, the tour page and the c
   # Tours Page
 
   - The page gives a sample of four places that the customer can tour. Belvedere House and Gardens, includes three images and information about the house and gardens. This style is repeated for Birr Castle, Hill of Uisneach and Lough Boora. The text is broken up with images to highlight the style and scenery that can be seen when toured. These images and text sit under the fixed main image of the murnuration to give consistency to the site. All the images contain a border to again give consistency to the site and layout. 
+[destination-tours-wireframe.pdf](https://github.com/Declan444/destination-tours/files/14131988/destination-tours-wireframe.pdf)
 
+   
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
 - __The Sign Up Page__
