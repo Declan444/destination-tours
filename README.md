@@ -1,3 +1,5 @@
+![image](https://github.com/Declan444/destination-tours/assets/119152450/82ba4353-4aed-480a-a8a4-5cd0d5964f9f)
+
 
 # Destination-Tours
 
@@ -7,14 +9,14 @@ With this in mind, Destination-Tours will concentrate on trying to attract parti
 It is the intention of the site to attract clients from the US that have dreamt of visiting Ireland. The service offers is an all inclusive service, picking the customers up at the airport, designing and organising every aspect of their tour and showing them places that are off the beaten path and in particular the Hiddden Heartland.
 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+
 
 ## Features 
 
 This site contains three main sections the landing page, the tour page and the contact us page. Each will be discussed below. 
 
 ### Existing Features
-
+![image](https://github.com/Declan444/destination-tours/assets/119152450/0b4c0a14-0ca6-4421-a8f8-3e1f9506adca)
 - __Navigation Links__
   The navigation links are placed in the top left of each page. It was decided to lay them over the main image as it was gray and the links are a greenish colour which offered enough contract for the user to see. 
   - Featured on all three pages, fully responsive navigation links which include links to the Logo, Home page, Tours and Contact Us pages and they are identical in each page to allow for easy navigation.
