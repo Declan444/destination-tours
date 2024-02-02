@@ -2,26 +2,24 @@
 
 
 # Destination-Tours
-<https://declan444.github.io/destination-tours/>
+
 Destination-Tours is a web site for a person setting up a business as a tour giude to the Hidden Heartlands of Ireland. The Hidden Heartland covers Westmeath, Offaly Laoise and Roscommon. As most tourists when visiting Ireland visit Dublin then to the north of Ireland, the west coast and down to Kerry and Cork, never stop in the midlands. Because of this the Tourist Board are trying to highlight the attractions that can be found in the midlands of Ireland.
 
 With this in mind, Destination-Tours will concentrate on trying to attract particularly US tourists to take a holiday to Ireland but to visit the Hidden Heartlands. The site is designed to highlight the historical sites that can be found in this area and offer tourists a unique experience to discover the part of Ireland that is often overlooked by the majority of tourists. The owner of Destionation-Tours is Des. Des will drive the bus and also is a qualified tour guide. As well as discovering Ireland, the site is designed to offer the customer a personal experience with Des as the tour guide.
 It is the intention of the site to attract clients from the US that have dreamt of visiting Ireland. The service offers is an all inclusive service, picking the customers up at the airport, designing and organising every aspect of their tour and showing them places that are off the beaten path and in particular the Hiddden Heartland.
 
+
+
 - __The landing page image__
 
-<<<<<<< HEAD
 pic of site on the different size screens (responsive)
-=======
-  - The landing page image is the same across the three pages. It is a picture of a murmuration of birds over Lough Ennell in Co. Westmeath. It is a unique picture that was taken by a local photographer, credit in the credit section below. The murmuration is in the shape of a bird flying. This was also used to indicate that the tourist visiting the page are flying into Ireland and this tour company will show them very unique sites and give them a very unique experience.
->>>>>>> origin/main
 
 ## Features 
 
 This site contains three main sections the landing page, the tour page and the contact us page. Each will be discussed below. 
 
 ### Existing Features
-pic of navigation links
+
 - __Navigation Links__
 
  ![image](https://github.com/Declan444/destination-tours/assets/119152450/0b4c0a14-0ca6-4421-a8f8-3e1f9506adca)
@@ -30,30 +28,18 @@ pic of navigation links
   - Featured on all three pages, fully responsive navigation links which include links to the Logo, Home page, Tours and Contact Us pages and they are identical in each page to allow for easy navigation.
   - The navigation links offer the customer an easy method to navigate from page to page and the main logo Destination-Tours is also a link to the home page. The current page link is highlighted by a line above and below the word and when moving to the next page a line apprears under the word to indicate that you will be clicking this link.
 
-<<<<<<< HEAD
-pic of the landing page image of the murmuration
 
 - __The landing page image__
 
   - The landing page image is the same across the three pages. It is a picture of a murmuration of birds over Lough Ennell in Co. Westmeath. It is a unique picture that was taken by a local photographer, credit in the credit section below. The murmuration is in the shape of a bird flying. This was also used to indicate that the tourist visiting the page are flying into Ireland and this tour company will show them very unique sites and give them a very unique experience.
 
-pic of main page overlay
 
-=======
->>>>>>> origin/main
 - __Main Page overlay__
   
 ![image](https://github.com/Declan444/destination-tours/assets/119152450/b0eb377f-6e38-4eb2-8b4a-ea1d8354fd8d)
 
  This is an overlay placed on the main image that invites the visitor to come tour with Des. This is to give a personal message from Des to the visitor to indicate that this is the type of service that Destination-Tours offer. The colour used in this text box matches the main body colour to create balance.
 
-<<<<<<< HEAD
-!
-- __Meetup Times section__
-=======
-
-__Main Page Information__
->>>>>>> origin/main
 
 ![image](https://github.com/Declan444/destination-tours/assets/119152450/f13b1904-5d2a-487c-b2d2-11f9256a3142)
 
@@ -70,11 +56,13 @@ __Main Page Information__
   - The footer section includes links to the relevant social media sites for Destination Tours. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![image](https://github.com/Declan444/destination-tours/assets/119152450/2d071f71-55be-47a8-9b32-ccbf987d93af)
+
 
 ![destination-tours-wireframe](https://github.com/Declan444/destination-tours/assets/119152450/1d33570f-ca66-435c-902f-f704e14d4c56)
 
   # Tours Page
+  
+
 
   - The page gives a sample of four places that the customer can tour. Belvedere House and Gardens, includes three images and information about the house and gardens. This style is repeated for Birr Castle, Hill of Uisneach and Lough Boora. The text is broken up with images to highlight the style and scenery that can be seen when toured. These images and text sit under the fixed main image of the murnuration to give consistency to the site. All the images contain a border to again give consistency to the site and layout. 
 [destination-tours-wireframe.pdf](https://github.com/Declan444/destination-tours/files/14131988/destination-tours-wireframe.pdf)
@@ -91,6 +79,9 @@ __Main Page Information__
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+## WireFrame Images
+
+![image](https://github.com/Declan444/destination-tours/assets/119152450/2d071f71-55be-47a8-9b32-ccbf987d93af)
 
 ### Features Left to Implement
 
