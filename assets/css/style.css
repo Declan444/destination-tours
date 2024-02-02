@@ -158,94 +158,87 @@ main {
     border-radius: 50%;
 }
 /*Main area tours page for 320px phone screens*/
-#overall-tour {}
-
 #overall-tour h2,
 p {
     color: #fff;
     text-align: center;
     padding-bottom: 10px;
 }
-
 #overall-tour p {
-
     padding: 10px;
 }
-
 #overall-tour div {
     background-color: rgb(70, 97, 36, .7);
 }
-
 .tour-images {
     display: flex;
-
     justify-content: center;
     padding-top: 10px;
 }
 
+.all-tour-images1{
+    max-width: 300px;
+        max-height: 300px;
+        height: 250px;
+        width: 280px;
+        border-radius: 20%;
+        border: 5px solid rgb(71, 67, 67)
+}
 #tour1-image1 {
     background: url('../images/belvadereHouse.jfif') no-repeat center center/cover;
-    max-width: 300px;
+    /*max-width: 300px;
     max-height: 300px;
     height: 250px;
-
     width: 280px;
     border-radius: 20%;
-    border: 5px solid rgb(71, 67, 67)
+    border: 5px solid rgb(71, 67, 67)*/
 }
-
 .tour-text {
-    padding-right: 10px;
+    padding: 5px 10px;
 }
-
 #tour2-image1 {
     background: url('../images/birrCastle.jpg') no-repeat center center/cover;
-    max-width: 300px;
+    /*max-width: 300px;
     max-height: 300px;
     height: 250px;
     width: 280px;
     border-radius: 20%;
-    border: 5px solid rgb(71, 67, 67);
+    border: 5px solid rgb(71, 67, 67);*/
 }
 
 
 #tour3-image1 {
     background: url('../images/goddessUisneach.webp') no-repeat center center/cover;
-    max-width: 300px;
+    /*max-width: 300px;
     max-height: 300px;
     height: 250px;
     width: 280px;
     border-radius: 20%;
-    border: 5px solid rgb(71, 67, 67);
+    border: 5px solid rgb(71, 67, 67);*/
 }
 
 #tour4-image1 {
 
     background: url('../images/loughBoora.jpg') no-repeat center center/cover;
-    max-width: 300px;
+    /*max-width: 300px;
     max-height: 300px;
-
     height: 250px;
     width: 280px;
     border-radius: 20%;
-    border: 5px solid rgb(71, 67, 67)
+    border: 5px solid rgb(71, 67, 67)*/
 }
 
-
-/* Main area for the contact us page for flip phone screen*/
+/* Main area for the contact us page for 320px phone screen*/
 #contact-us {
     display: flex;
     align-items: center;
-
     background-color: rgba(70, 97, 36, .7);
     height: auto;
     flex-direction: column;
     width: auto;
 }
-
 #form-container {
     display: flex;
-
     justify-content: center;
     width: 300px;
     height: 340px;
@@ -253,8 +246,6 @@ p {
     padding-right: 17px;
     margin-top: 20px;
 }
-
-
 #form {
     display: flex;
     align-self: baseline;
@@ -263,31 +254,23 @@ p {
     line-height: 27px;
     padding: 10px;
     justify-content: center;
-
     background-color: rgba(255, 255, 255, .8);
     margin-top: 10px;
     margin-left: 15px;
 }
-
 form {
-
     height: 400px;
 }
-
-
 #button-contact-us {
     width: 100px;
     background-color: rgba(70, 97, 36, .7);
     color: #fff;
 }
-
-
 #des-details {
     text-align: center;
     color: #fff;
     padding-top: 10px;
 }
-
 #contact-us-image2 {
     height: 250px;
     width: 250px;
@@ -296,16 +279,12 @@ form {
     border: 5px solid rgb(71, 67, 67);
     background: url('../images/sculpture60degreesLoughboora.jpg');
 }
-
-
 #bottom-image-contact-us {
     background: url('../images/loughEnnellLandscape.jpg')no-repeat center center/cover;
     height: 200px;
     width: auto;
     border: 5px solid rgb(71, 67, 67);
-
 }
-
 /*Footer*/
 #social-links {
     text-align: center;
@@ -315,21 +294,15 @@ form {
     justify-content: space-evenly;
     list-style-type: none;
     max-width: 1600px;
-
 }
-
 #social-links i {
     font-size: 160%;
     padding: 5%;
     color: rgb(71, 67, 67);
 }
-
-
 #overall-control p {
     border-bottom: 10px;
 }
-
-
 /* Media query: tablets and larger >= 768px*/
 @media screen and (min-width: 767px) {
     #main-image-text {
