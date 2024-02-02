@@ -1,3 +1,5 @@
+![image](https://github.com/Declan444/destination-tours/assets/119152450/82ba4353-4aed-480a-a8a4-5cd0d5964f9f)
+
 
 # Destination-Tours
 <https://declan444.github.io/destination-tours/>
@@ -6,8 +8,13 @@ Destination-Tours is a web site for a person setting up a business as a tour giu
 With this in mind, Destination-Tours will concentrate on trying to attract particularly US tourists to take a holiday to Ireland but to visit the Hidden Heartlands. The site is designed to highlight the historical sites that can be found in this area and offer tourists a unique experience to discover the part of Ireland that is often overlooked by the majority of tourists. The owner of Destionation-Tours is Des. Des will drive the bus and also is a qualified tour guide. As well as discovering Ireland, the site is designed to offer the customer a personal experience with Des as the tour guide.
 It is the intention of the site to attract clients from the US that have dreamt of visiting Ireland. The service offers is an all inclusive service, picking the customers up at the airport, designing and organising every aspect of their tour and showing them places that are off the beaten path and in particular the Hiddden Heartland.
 
+- __The landing page image__
 
+<<<<<<< HEAD
 pic of site on the different size screens (responsive)
+=======
+  - The landing page image is the same across the three pages. It is a picture of a murmuration of birds over Lough Ennell in Co. Westmeath. It is a unique picture that was taken by a local photographer, credit in the credit section below. The murmuration is in the shape of a bird flying. This was also used to indicate that the tourist visiting the page are flying into Ireland and this tour company will show them very unique sites and give them a very unique experience.
+>>>>>>> origin/main
 
 ## Features 
 
@@ -16,10 +23,14 @@ This site contains three main sections the landing page, the tour page and the c
 ### Existing Features
 pic of navigation links
 - __Navigation Links__
+
+ ![image](https://github.com/Declan444/destination-tours/assets/119152450/0b4c0a14-0ca6-4421-a8f8-3e1f9506adca)
+- 
   The navigation links are placed in the top left of each page. It was decided to lay them over the main image as it was gray and the links are a greenish colour which offered enough contract for the user to see. 
   - Featured on all three pages, fully responsive navigation links which include links to the Logo, Home page, Tours and Contact Us pages and they are identical in each page to allow for easy navigation.
   - The navigation links offer the customer an easy method to navigate from page to page and the main logo Destination-Tours is also a link to the home page. The current page link is highlighted by a line above and below the word and when moving to the next page a line apprears under the word to indicate that you will be clicking this link.
 
+<<<<<<< HEAD
 pic of the landing page image of the murmuration
 
 - __The landing page image__
@@ -28,37 +39,54 @@ pic of the landing page image of the murmuration
 
 pic of main page overlay
 
+=======
+>>>>>>> origin/main
 - __Main Page overlay__
+  
+![image](https://github.com/Declan444/destination-tours/assets/119152450/b0eb377f-6e38-4eb2-8b4a-ea1d8354fd8d)
 
  This is an overlay placed on the main image that invites the visitor to come tour with Des. This is to give a personal message from Des to the visitor to indicate that this is the type of service that Destination-Tours offer. The colour used in this text box matches the main body colour to create balance.
 
+<<<<<<< HEAD
 !
 - __Meetup Times section__
+=======
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+__Main Page Information__
+>>>>>>> origin/main
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![image](https://github.com/Declan444/destination-tours/assets/119152450/f13b1904-5d2a-487c-b2d2-11f9256a3142)
 
-- __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
+-The main page outlines the benefits of using Destination Tours. It highlights the four main selling points Five Star Service, Tour in Style, So Much Fun and Unique Places and the text is broken up with images to entice the customer to want to travel to the Hidden Heartlands and use Destination Tours to navigate the tour.
+
+
+
+
+ __The Footer__
+
+ ![image](https://github.com/Declan444/destination-tours/assets/119152450/3e8ec53f-af0e-4397-ba53-461f4b97ecfe)
+
+  - The footer section includes links to the relevant social media sites for Destination Tours. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![image](https://github.com/Declan444/destination-tours/assets/119152450/2d071f71-55be-47a8-9b32-ccbf987d93af)
 
-- __Gallery__
+![destination-tours-wireframe](https://github.com/Declan444/destination-tours/assets/119152450/1d33570f-ca66-435c-902f-f704e14d4c56)
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  # Tours Page
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+  - The page gives a sample of four places that the customer can tour. Belvedere House and Gardens, includes three images and information about the house and gardens. This style is repeated for Birr Castle, Hill of Uisneach and Lough Boora. The text is broken up with images to highlight the style and scenery that can be seen when toured. These images and text sit under the fixed main image of the murnuration to give consistency to the site. All the images contain a border to again give consistency to the site and layout. 
+[destination-tours-wireframe.pdf](https://github.com/Declan444/destination-tours/files/14131988/destination-tours-wireframe.pdf)
+
+   
+
 
 - __The Sign Up Page__
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
