@@ -737,58 +737,16 @@ form {
             margin-bottom: 10px;
             border: 5px solid rgb(71, 67, 67)
         }
-
-        /*#tour3-image1 {
-            margin-top: 10px;
-            margin-bottom: 10px;
-        }*/
         #tour1-image3 {
-            background: url('../images/belvedere1.jpg') no-repeat center center/cover;
-            /*max-width: 300px;
-            max-height: 300px;
-            height: 250px;
-            width: 280px;
-            border-radius: 20%;
-            margin-top: 10px;
-            margin-bottom: 10px;
-            border: 5px solid rgb(71, 67, 67)*/
+            background: url('../images/belvedere1.jpg') no-repeat center center/cover;    
         }
-        /*#tour2-images {
-            display: flex;
-            justify-content: space-evenly;
-        }*/
-        /*#tour2-image3 {
-            margin-top: 10px;
-            margin-bottom: 10px;
-        }*/
         #tour2-image3 {
-            background: url('../images/birrTelescope.jpg') no-repeat center center/cover;
-            /*max-width: 300px;
-            max-height: 300px;
-            height: 250px;
-            width: 280px;
-            border-radius: 20%;
-            margin-top: 10px;
-            margin-bottom: 10px;
-            border: 5px solid rgb(71, 67, 67)*/
+            background: url('../images/birrTelescope.jpg') no-repeat center center/cover;   
         }
-        /*#tour4-images {
-            display: flex;
-            justify-content: space-evenly;
-        }*/
-        /*#tour4-image3 {
-            margin-top: 10px;
-            margin-bottom: 10px;
-        }*/
+        #tour3-image3 {
+            background: url('../images/hillOfUisneach.webp') no-repeat center center/cover;
+        }
         #tour4-image3 {
-            background: url('../images/natureDragonfly.jpg') no-repeat center center/cover;
-           /* max-width: 300px;
-            max-height: 300px;
-            height: 250px;
-            width: 280px;
-            border-radius: 20%;
-            margin-top: 10px;
-            margin-bottom: 10px;
-            border: 5px solid rgb(71, 67, 67)*/
+            background: url('../images/natureDragonfly.jpg') no-repeat center center/cover;   
         }
     }
