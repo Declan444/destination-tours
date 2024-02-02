@@ -195,46 +195,26 @@ p {
 }
 #tour1-image1 {
     background: url('../images/belvadereHouse.jfif') no-repeat center center/cover;
-    /*max-width: 300px;
-    max-height: 300px;
-    height: 250px;
-    width: 280px;
-    border-radius: 20%;
-    border: 5px solid rgb(71, 67, 67)*/
+    
 }
 .tour-text {
     padding: 5px 10px;
 }
 #tour2-image1 {
     background: url('../images/birrCastle.jpg') no-repeat center center/cover;
-    /*max-width: 300px;
-    max-height: 300px;
-    height: 250px;
-    width: 280px;
-    border-radius: 20%;
-    border: 5px solid rgb(71, 67, 67);*/
+    
 }
 
 
 #tour3-image1 {
     background: url('../images/goddessUisneach.webp') no-repeat center center/cover;
-    /*max-width: 300px;
-    max-height: 300px;
-    height: 250px;
-    width: 280px;
-    border-radius: 20%;
-    border: 5px solid rgb(71, 67, 67);*/
+   
 }
 
 #tour4-image1 {
 
     background: url('../images/loughBoora.jpg') no-repeat center center/cover;
-    /*max-width: 300px;
-    max-height: 300px;
-    height: 250px;
-    width: 280px;
-    border-radius: 20%;
-    border: 5px solid rgb(71, 67, 67)*/
+    
 }
 
 /* Main area for the contact us page for 320px phone screen*/
@@ -269,6 +249,7 @@ p {
 }
 form {
     height: 400px;
+    
 }
 #button-contact-us {
     width: 100px;
@@ -279,10 +260,12 @@ form {
     text-align: center;
     color: #fff;
     padding-top: 10px;
+    width: 300px;
+    padding-left: 4px;
 }
 #contact-us-image2 {
     height: 250px;
-    width: 250px;
+    width: 270px;
     background-color: #4caf50;
     margin: 15px;
     border: 5px solid rgb(71, 67, 67);
@@ -417,11 +400,9 @@ form {
 
         #tour2-image2 {
             background: url('../images/birrcastleTerraces.jpg') no-repeat center center/cover;
-          
-
             margin-top: 10px;
             margin-bottom: 10px;
-        }*/}
+        }
 
         #tour3-image2 {
             background: url('../images/homeBealtaineFire.jpg') no-repeat center center/cover;
@@ -474,6 +455,7 @@ form {
             height: 470px;
             margin-top: 10px;
             margin-bottom: 15px;
+            
         }
         .contact-us-image {
             width: 0px;
