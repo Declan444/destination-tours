@@ -12,13 +12,12 @@ It is the intention of the site to attract clients from the US that have dreamt 
 
 - __The landing page image__
 
-pic of site on the different size screens (responsive)
+ ![image](https://github.com/Declan444/destination-tours/assets/119152450/365e2090-289e-46b5-a4bb-5fd6b1a1361f)
+
 
 ## Features 
 
 This site contains three main sections the landing page, the tour page and the contact us page. Each will be discussed below. 
-
-
 
 - __Navigation Links__
 
@@ -27,9 +26,6 @@ This site contains three main sections the landing page, the tour page and the c
   The navigation links are placed in the top left of each page. It was decided to lay them over the main image as it was gray and the links are a greenish colour which offered enough contract for the user to see. 
   - Featured on all three pages, fully responsive navigation links which include links to the Logo, Home page, Tours and Contact Us pages and they are identical in each page to allow for easy navigation.
   - The navigation links offer the customer an easy method to navigate from page to page and the main logo Destination-Tours is also a link to the home page. The current page link is highlighted by a line above and below the word and when moving to the next page a line apprears under the word to indicate that you will be clicking this link.
-
-
-##The landing page image
 
   - The landing page image is the same across the three pages. It is a picture of a murmuration of birds over Lough Ennell in Co. Westmeath. It is a unique picture that was taken by a local photographer, credit in the credit section below. The murmuration is in the shape of a bird flying. This was also used to indicate that the tourist visiting the page are flying into Ireland and this tour company will show them very unique sites and give them a very unique experience.
 
@@ -40,17 +36,12 @@ This site contains three main sections the landing page, the tour page and the c
 
  This is an overlay placed on the main image that invites the visitor to come tour with Des. This is to give a personal message from Des to the visitor to indicate that this is the type of service that Destination-Tours offer. The colour used in this text box matches the main body colour to create balance.
 
-
+ ## Main Page
 ![image](https://github.com/Declan444/destination-tours/assets/119152450/f13b1904-5d2a-487c-b2d2-11f9256a3142)
-
-  ##Main Page
 
 -The main page outlines the benefits of using Destination Tours. It highlights the four main selling points Five Star Service, Tour in Style, So Much Fun and Unique Places and the text is broken up with images to entice the customer to want to travel to the Hidden Heartlands and use Destination Tours to navigate the tour.
 
-
-
-
-   ##The Footer
+   ## The Footer
 
  ![image](https://github.com/Declan444/destination-tours/assets/119152450/3e8ec53f-af0e-4397-ba53-461f4b97ecfe)
 
@@ -58,46 +49,34 @@ This site contains three main sections the landing page, the tour page and the c
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
 
-   ##Wire Frame Image
+   ## Wire Frame Image
  
 ![destination-tours-wireframe](https://github.com/Declan444/destination-tours/assets/119152450/1d33570f-ca66-435c-902f-f704e14d4c56)
 
-  # Tours Page
-  
+  ## Tours Page
 
+  [destination-tours-wireframe.pdf](https://github.com/Declan444/destination-tours/files/14131988/destination-tours-wireframe.pdf)
 
   - The page gives a sample of four places that the customer can tour. Belvedere House and Gardens, includes three images and information about the house and gardens. This style is repeated for Birr Castle, Hill of Uisneach and Lough Boora. The text is broken up with images to highlight the style and scenery that can be seen when toured. These images and text sit under the fixed main image of the murnuration to give consistency to the site. All the images contain a border to again give consistency to the site and layout. 
-[destination-tours-wireframe.pdf](https://github.com/Declan444/destination-tours/files/14131988/destination-tours-wireframe.pdf)
 
    
 
 
-- __The Sign Up Page__
+## Contact Us Page
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future.
+![image](https://github.com/Declan444/destination-tours/assets/119152450/0f68278e-c177-4097-8150-8f8c6c2c1cb5)
 
 
-![image](https://github.com/Declan444/destination-tours/assets/119152450/2d071f71-55be-47a8-9b32-ccbf987d93af)
+  - This page will allow the user to input their personal information so that Des can contact them directly to discuss and design a tour that meets their budget and needs. The user will be asked to submit their full name and email address. Beside the form is also the contact details for Destination Tours with an address and phone number.
 
 ### Features Left to Implement
 
-- Another feature idea
+- Get rid of the text on the tours page and click on the image to get information about the selected image.
+- Drip down menu in the tours page to allow the customer to select a specific tour.
+- Add video images of tour examples and a greeting from Des.
 
 ## Testing 
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+The site was tested on wide screen, laptop, and phones of all different types. It was also tested for responsiveness using the dev tools in chrome. All movement and responsiveness was reported to work exactly as planned on all screens. A max width of 1600px was set to avoid the main fixed image becoming too thin.
 
 
 ### Validator Testing 
@@ -107,10 +86,6 @@ If this section grows too long, you may want to split it off into a separate fil
 - CSS
  ![image](https://github.com/Declan444/destination-tours/assets/119152450/05f87ee8-2778-4245-8a45-bf96e61c2cbe)
 
-
-### Unfixed Bugs
-
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
 
 ## Deployment
 
