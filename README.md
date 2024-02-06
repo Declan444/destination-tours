@@ -18,7 +18,7 @@ pic of site on the different size screens (responsive)
 
 This site contains three main sections the landing page, the tour page and the contact us page. Each will be discussed below. 
 
-### Existing Features
+
 
 - __Navigation Links__
 
@@ -29,7 +29,7 @@ This site contains three main sections the landing page, the tour page and the c
   - The navigation links offer the customer an easy method to navigate from page to page and the main logo Destination-Tours is also a link to the home page. The current page link is highlighted by a line above and below the word and when moving to the next page a line apprears under the word to indicate that you will be clicking this link.
 
 
-- __The landing page image__
+##The landing page image
 
   - The landing page image is the same across the three pages. It is a picture of a murmuration of birds over Lough Ennell in Co. Westmeath. It is a unique picture that was taken by a local photographer, credit in the credit section below. The murmuration is in the shape of a bird flying. This was also used to indicate that the tourist visiting the page are flying into Ireland and this tour company will show them very unique sites and give them a very unique experience.
 
@@ -43,13 +43,14 @@ This site contains three main sections the landing page, the tour page and the c
 
 ![image](https://github.com/Declan444/destination-tours/assets/119152450/f13b1904-5d2a-487c-b2d2-11f9256a3142)
 
+  ##Main Page
 
 -The main page outlines the benefits of using Destination Tours. It highlights the four main selling points Five Star Service, Tour in Style, So Much Fun and Unique Places and the text is broken up with images to entice the customer to want to travel to the Hidden Heartlands and use Destination Tours to navigate the tour.
 
 
 
 
- __The Footer__
+   ##The Footer
 
  ![image](https://github.com/Declan444/destination-tours/assets/119152450/3e8ec53f-af0e-4397-ba53-461f4b97ecfe)
 
@@ -57,7 +58,7 @@ This site contains three main sections the landing page, the tour page and the c
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
 
- __Wire Frame__
+   ##Wire Frame Image
  
 ![destination-tours-wireframe](https://github.com/Declan444/destination-tours/assets/119152450/1d33570f-ca66-435c-902f-f704e14d4c56)
 
@@ -79,8 +80,8 @@ This site contains three main sections the landing page, the tour page and the c
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-## WireFrame Images
+In addition, you may also use this section to discuss plans for additional features to be implemented in the future.
+
 
 ![image](https://github.com/Declan444/destination-tours/assets/119152450/2d071f71-55be-47a8-9b32-ccbf987d93af)
 
