@@ -57,7 +57,8 @@ This site contains three main sections the landing page, the tour page and the c
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
 
-
+ __Wire Frame__
+ 
 ![destination-tours-wireframe](https://github.com/Declan444/destination-tours/assets/119152450/1d33570f-ca66-435c-902f-f704e14d4c56)
 
   # Tours Page
