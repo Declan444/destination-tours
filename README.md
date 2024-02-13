@@ -46,8 +46,9 @@ This site contains three main sections the landing page, the tour page and the c
 ![destination-tours-wireframe](https://github.com/Declan444/destination-tours/assets/119152450/1d33570f-ca66-435c-902f-f704e14d4c56)
 
   ## Tours Page
+![image](https://github.com/Declan444/destination-tours/assets/119152450/c16d9a9f-c003-4208-b1c5-db8fa8c1a844)
 
-  [destination-tours-wireframe.pdf](https://github.com/Declan444/destination-tours/files/14131988/destination-tours-wireframe.pdf)
+  
   - The page gives a sample of four places that the customer can tour. Belvedere House and Gardens, includes three images and information about the house and gardens. This style is repeated for Birr Castle, Hill of Uisneach and Lough Boora. The text is broken up with images to highlight the style and scenery that can be seen when toured. These images and text sit under the fixed main image of the murnuration to give consistency to the site. All the images contain a border to again give consistency to the site and layout. 
 
 ## Contact Us Page
@@ -70,6 +71,15 @@ The site was tested on wide screen, laptop, and phones of all different types. I
 
 - CSS
  ![image](https://github.com/Declan444/destination-tours/assets/119152450/05f87ee8-2778-4245-8a45-bf96e61c2cbe)
+![image](https://github.com/Declan444/destination-tours/assets/119152450/699e15d7-148e-4658-831a-b39482cf4434)
+![image](https://github.com/Declan444/destination-tours/assets/119152450/5cb0518d-fb4c-4eed-9a35-338313648106)
+
+
+
+## Lighthouse Testing
+
+![image](https://github.com/Declan444/destination-tours/assets/119152450/bda6b2f0-cfe7-4417-96b7-5bf44fc15415)
+
 
 ## Deployment
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
