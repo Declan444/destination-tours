@@ -67,12 +67,13 @@ The site was tested on wide screen, laptop, and phones of all different types. I
 
 ### Validator Testing 
 - HTML
-  ![image](https://github.com/Declan444/destination-tours/assets/119152450/3c412bf4-6642-43f4-9c58-b3a7af8b5425)
+  ![image](https://github.com/Declan444/destination-tours/assets/119152450/11d89b77-93cc-49d4-9d4e-6d4da76cbcae)
+ ![image](https://github.com/Declan444/destination-tours/assets/119152450/0c340aa6-556c-470f-a55e-2d5c64de8ffb)
+ ![image](https://github.com/Declan444/destination-tours/assets/119152450/b9399bc1-d93a-4752-a37e-5797477f50b2)
 
 - CSS
  ![image](https://github.com/Declan444/destination-tours/assets/119152450/05f87ee8-2778-4245-8a45-bf96e61c2cbe)
-![image](https://github.com/Declan444/destination-tours/assets/119152450/699e15d7-148e-4658-831a-b39482cf4434)
-![image](https://github.com/Declan444/destination-tours/assets/119152450/5cb0518d-fb4c-4eed-9a35-338313648106)
+
 
 
 
